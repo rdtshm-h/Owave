@@ -3,9 +3,9 @@
 ## Group Members
 | Name | Matric Number |
 | :--- | :--- |
-| [RAUDATUSHIMA BINTI HAIDIL] | [309895] |
-| [NUR SYUHADA BINTI ISMAIL] | [309736] |
-| [NUR FATINI ANIS BINTI ABDUL MANAP] | [309657] |
+| RAUDATUSHIMA BINTI HAIDIL | 309895 |
+| NUR SYUHADA BINTI ISMAIL | 309736 |
+| NUR FATINI ANIS BINTI ABDUL MANAP | 309657 |
 
 ## Project Description
 A web-based Student Consultation Booking System developed to streamline academic consultation scheduling between students and lecturers. The system replaces informal WhatsApp, email, and walk-in requests with structured consultation slot creation, automated double-booking prevention, consultation mode management (Face-to-Face and Online), and real-time request status tracking.
